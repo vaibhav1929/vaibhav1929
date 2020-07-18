@@ -8,8 +8,7 @@
 <br />
 
 Hi, I'm Vaibhav Sorathiya, a Full Stack Developer 🚀 from India, Currently, Undergrad at Nirma University enrolled in computer science & engineering. 
-<br/>
-<br/>
+
 
   <img align="right" height="300 " width="350" alt="GIF" src="https://user-images.githubusercontent.com/30389552/87849796-0ee50480-c909-11ea-9290-32577c0f356e.gif" />
 
