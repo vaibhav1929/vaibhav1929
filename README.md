@@ -23,4 +23,4 @@ Hi, I'm Vaibhav Sorathiya, a Full Stack Developer 🚀 from India, Currently, Un
 
 
 
-![Tathagat's github stats](https://github-readme-stats.vercel.app/api?username=tathagat2006&show_icons=true&hide_border=true)
+![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhav1929&show_icons=true&hide_border=true)
