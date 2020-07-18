@@ -19,8 +19,7 @@ Hi, I'm Vaibhav Sorathiya, a Full Stack Developer 🚀 from India, Currently, Un
 - swift
 - 📫 How to reach me: vaibhavpatel1921@gmail.com;
 
-
-![Vaibhav's github statistics] (https://github-readme-stats.vercel.app/api?username=vaibhav1929&show_icons=true&hide_border=true)
+<br/>
 
 
 
