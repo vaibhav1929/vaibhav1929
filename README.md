@@ -12,7 +12,7 @@ Hi, I'm Vaibhav Sorathiya, a Full Stack Developer 🚀 from India, Currently, Un
 **Talking about Personal Stuffs:**
 
 - 🛠 Currently working with 
-- Java
+- :coffee: Java
 - javascript
 - NodeJs
 - python
