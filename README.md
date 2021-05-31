@@ -15,8 +15,9 @@ Hi, I'm Vaibhav Sorathiya, a Full Stack Developer 🚀 from India, Currently, Un
 - :coffee: Java
 - javascript
 - NodeJs
+- React
 - python
-- swift
+- Django
 - 📫 How to reach me: vaibhavpatel1921@gmail.com;
 
 <br/>
